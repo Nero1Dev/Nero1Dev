@@ -8,6 +8,7 @@
 - 📫 How to reach me: email = nero1devsenior@gmail.com
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: in heaven there is no bread
+- ✌ Age: 16
 
 <div>
   <a href="https://github.com/Nero1Dev">
