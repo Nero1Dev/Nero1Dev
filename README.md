@@ -31,3 +31,14 @@
   ![Snake animation](https://github.com/Nero1Dev/Nero1Dev/blob/output/github-contribution-grid-snake.svg)
   
 <div>
+  
+<div>
+  <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Nero1Dev/count.svg" />
+ </p>
+
+</p>
+<div>
