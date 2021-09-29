@@ -1,4 +1,4 @@
-## Olá bom dia kk, eu sou o Nero Dev 👋
+## Hi good morning kk, i'm Nero Dev 👋
 
 - 🔭 I’m currently working in an office
 - 🌱 I’m currently learning JavaScript
@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with the life
 - 💬 Ask me about do not kniw yet
 - 📫 How to reach me: email = nero1devsenior@gmail.com
-- 😄 Pronouns: Ele/dele
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: in heaven there is no bread
 - ✌ Age: 16
 
