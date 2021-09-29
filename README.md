@@ -17,6 +17,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nero-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Nero-gif" src="https://cdn.discordapp.com/attachments/622060877956513792/870462420592783360/gifgit.gif">
 </div>
   
