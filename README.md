@@ -10,6 +10,7 @@
 - ⚡ Fun fact: in heaven there is no bread
 - ✌ Age: 16
 - 🤓 Very bad in math
+- 🏖️ Bom dia 
 
 <div>
   <a href="https://github.com/Nero1Dev">
