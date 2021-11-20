@@ -9,7 +9,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: in heaven there is no bread
 - ✌ Age: 16
-
 <div>
   <a href="https://github.com/Nero1Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nero1Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
