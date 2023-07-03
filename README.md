@@ -43,12 +43,6 @@
  </p>
 
 </p>
-<div>
+
   
-[![Nero1Dev github activity graph](https://activity-graph.herokuapp.com/graph?username=Nero1Dev&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
-<div>
-  
- ## Meme random of day😄
-<div>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<div>
+
