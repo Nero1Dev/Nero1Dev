@@ -1,14 +1,4 @@
 ## Hi good morning kk, i'm Nero Dev 👋
-
-- 🔭 I’m currently working in an office
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate where i can
-- 🤔 I’m looking for help with the life
-- 💬 Ask me about do not kniw yet
-- 📫 How to reach me: email = nero1devsenior@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: in heaven there is no bread
-- ✌ Age: 18
 <div>
   <a href="https://github.com/Nero1Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nero1Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -36,13 +26,6 @@
   
 <div>
   <p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Nero1Dev/count.svg" />
- </p>
-
-</p>
 
   
 
