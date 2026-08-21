@@ -1,4 +1,4 @@
-## Hi good morning kk, i'm Nero Dev 👋
+## Hi, i'm Nero Dev 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nero-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
