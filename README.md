@@ -42,12 +42,7 @@ Sem framework, sem enrolação: HTML, CSS e JS puro, do jeito que dá pra entend
 ## 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nero1Dev&show_icons=true&theme=transparent&hide_border=true&title_color=C99A44&icon_color=C99A44&text_color=EDE6D6" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nero1Dev&theme=transparent&hide_border=true&ring=C99A44&fire=C99A44&currStreakLabel=C99A44" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nero1Dev&layout=compact&theme=transparent&hide_border=true&title_color=C99A44&text_color=EDE6D6" alt="Top Langs" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Nero1Dev&theme=transparent&hide_border=true&ring=C99A44&fire=C99A44&currStreakLabel=C99A44" />
 </div>
 
 <br>
