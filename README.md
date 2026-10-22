@@ -26,18 +26,3 @@
 </div>
 
 <br>
-
-## 📬 Onde me encontrar
-
-<div align="center">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://nairondalmaso.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/nairondalmaso.com.br-C99A44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Feito à mão, foto por foto, linha por linha.</sub>
-</div>
