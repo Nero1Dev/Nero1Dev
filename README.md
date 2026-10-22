@@ -1,29 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=C99A44&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Nairon+%F0%9F%91%8B;Fot%C3%B3grafo+em+Ju%C3%ADna+-+MT+%F0%9F%93%B7;Tamb%C3%A9m+construo+sites+%E2%80%94+sem+framework+%F0%9F%92%BB;E+de+vez+em+quando%2C+automatizo+o+que+me+irrita+%F0%9F%A4%96" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-## 👋 Sobre mim
-
-Sou fotógrafo em **Juína - MT** — rodeio, retrato, editorial e eventos são minha praia. Mas em algum momento comecei a construir os próprios sites que uso pra mostrar esse trabalho, e acabei gostando tanto que virou uma segunda linha de atuação: hoje também desenvolvo sites pra outros negócios locais.
-
-Sem framework, sem enrolação: HTML, CSS e JS puro, do jeito que dá pra entender exatamente o que está acontecendo em cada linha.
-
-<br>
-
-## 🔨 O que eu venho construindo
-
-- **[nairondalmaso.com.br](https://nairondalmaso.com.br)** — meu portfólio de fotografia, com efeitos visuais feitos do zero (sem lib de animação)
-- **Hanke Pet Groomer** — landing page pra um pet shop local, com agendamento direto via WhatsApp
-- **Alfa Previdenciário** — landing page pra uma assessoria previdenciária, com identidade visual própria
-- **Monitor de atualização** — script (Python + GitHub Actions, e uma versão em PowerShell rodando local) que fica de olho num sistema de terceiros e me avisa no celular quando sai atualização nova
-- Um probleminha de jogo rodando por baixo dos panos, ainda em fase de "só eu sei que existe" 🎮
-
-<br>
-
 ## 🛠️ Tecnologias
 
 <div align="center">
