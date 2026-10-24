@@ -9,7 +9,7 @@ text{font-family:ui-monospace,'JetBrains Mono',SFMono-Regular,Menlo,Consolas,'De
 <rect x=".5" y=".5" width="859" height="469" rx="10" fill="#07090C" stroke="#36404B"/>
 <text x="30" y="34" fill="#7FD0EE" >nero@system</text><text x="116" y="34" fill="#76808C" >:~$</text><text x="152" y="34" fill="#F2F6F9" >cat identity.dat</text>
 
-<rect x="30" y="54" width="400" height="152" rx="4" fill="#0C1016" stroke="#36404B"/>
+<rect x="30" y="54" width="385" height="152" rx="4" fill="#0C1016" stroke="#36404B"/>
 <rect x="42" y="46" width="109.6" height="16" fill="#07090C"/>
 <text x="50" y="58" fill="#7FD0EE" font-weight="700">IDENTITY.DAT</text>
 
@@ -18,18 +18,18 @@ text{font-family:ui-monospace,'JetBrains Mono',SFMono-Regular,Menlo,Consolas,'De
 <text x="48" y="132" fill="#76808C" >INTERESTS</text><text x="158" y="132" fill="#D6DCE2" >Code, systems, design</text>
 <text x="48" y="154" fill="#76808C" >MINDSET</text><text x="158" y="154" fill="#EBA599" >Build. Break. Improve.</text>
 <text x="48" y="176" fill="#76808C" >STATUS</text><text x="158" y="176" fill="#D6DCE2" >Always learning</text>
-<text x="460" y="34" fill="#7FD0EE" >nero@system</text><text x="546" y="34" fill="#76808C" >:~$</text><text x="582" y="34" fill="#F2F6F9" >cat connections.log</text>
+<text x="445" y="34" fill="#7FD0EE" >nero@system</text><text x="531" y="34" fill="#76808C" >:~$</text><text x="567" y="34" fill="#F2F6F9" >cat connections.log</text>
 
-<rect x="460" y="54" width="400" height="152" rx="4" fill="#0C1016" stroke="#36404B"/>
-<rect x="472" y="46" width="133" height="16" fill="#07090C"/>
-<text x="480" y="58" fill="#7FD0EE" font-weight="700">CONNECTIONS.LOG</text>
+<rect x="445" y="54" width="385" height="152" rx="4" fill="#0C1016" stroke="#36404B"/>
+<rect x="457" y="46" width="133" height="16" fill="#07090C"/>
+<text x="465" y="58" fill="#7FD0EE" font-weight="700">CONNECTIONS.LOG</text>
 
-<text x="478" y="88" fill="#76808C" >GITHUB</text><text x="588" y="88" fill="#7FD0EE" >github.com/Nero1Dev</text>
-<text x="478" y="110" fill="#76808C" >SITE</text><text x="588" y="110" fill="#7FD0EE" >tryzenu.com</text>
-<text x="478" y="132" fill="#76808C" >BLOG</text><text x="588" y="132" fill="#76808C" >[ COMING SOON ]</text>
+<text x="463" y="88" fill="#76808C" >GITHUB</text><text x="573" y="88" fill="#7FD0EE" >github.com/Nero1Dev</text>
+<text x="463" y="110" fill="#76808C" >SITE</text><text x="573" y="110" fill="#7FD0EE" >tryzenu.com</text>
+<text x="463" y="132" fill="#76808C" >BLOG</text><text x="573" y="132" fill="#76808C" >[ COMING SOON ]</text>
 <text x="30" y="250" fill="#7FD0EE" >nero@system</text><text x="116" y="250" fill="#76808C" >:~$</text><text x="152" y="250" fill="#F2F6F9" >ls projects/</text>
 
-<rect x="30" y="270" width="400" height="130" rx="4" fill="#0C1016" stroke="#36404B"/>
+<rect x="30" y="270" width="385" height="130" rx="4" fill="#0C1016" stroke="#36404B"/>
 <rect x="42" y="262" width="109.6" height="16" fill="#07090C"/>
 <text x="50" y="274" fill="#7FD0EE" font-weight="700">PROJECTS.LOG</text>
 
@@ -37,16 +37,16 @@ text{font-family:ui-monospace,'JetBrains Mono',SFMono-Regular,Menlo,Consolas,'De
 <text x="48" y="326" fill="#76808C" >▸ nero-blog</text><text x="158" y="326" fill="#D6DCE2" >blog that looks like a terminal</text>
 <text x="48" y="348" fill="#76808C" >▸ quieto</text><text x="158" y="348" fill="#D6DCE2" >minimal Android launcher</text>
 <text x="48" y="370" fill="#76808C" >▸ tryzenu</text><text x="158" y="370" fill="#D6DCE2" >tryzenu.com</text>
-<text x="460" y="250" fill="#7FD0EE" >nero@system</text><text x="546" y="250" fill="#76808C" >:~$</text><text x="582" y="250" fill="#F2F6F9" >stack --list</text>
+<text x="445" y="250" fill="#7FD0EE" >nero@system</text><text x="531" y="250" fill="#76808C" >:~$</text><text x="567" y="250" fill="#F2F6F9" >stack --list</text>
 
-<rect x="460" y="270" width="400" height="130" rx="4" fill="#0C1016" stroke="#36404B"/>
-<rect x="472" y="262" width="86.2" height="16" fill="#07090C"/>
-<text x="480" y="274" fill="#7FD0EE" font-weight="700">STACK.SYS</text>
+<rect x="445" y="270" width="385" height="130" rx="4" fill="#0C1016" stroke="#36404B"/>
+<rect x="457" y="262" width="86.2" height="16" fill="#07090C"/>
+<text x="465" y="274" fill="#7FD0EE" font-weight="700">STACK.SYS</text>
 
-<text x="478" y="304" fill="#76808C" >LANG</text><text x="548" y="304" fill="#EBA599" >TypeScript · JavaScript · Rust</text>
-<text x="478" y="326" fill="#76808C" ></text><text x="548" y="326" fill="#EBA599" >Python · HTML / CSS</text>
-<text x="478" y="348" fill="#76808C" >WEB</text><text x="548" y="348" fill="#D6DCE2" >React · Next.js · Vite</text>
-<text x="478" y="370" fill="#76808C" >TOOLS</text><text x="548" y="370" fill="#D6DCE2" >Git · Fedora Linux · VS Code</text>
+<text x="463" y="304" fill="#76808C" >LANG</text><text x="533" y="304" fill="#EBA599" >TypeScript · JavaScript · Rust</text>
+<text x="463" y="326" fill="#76808C" ></text><text x="533" y="326" fill="#EBA599" >Python · HTML / CSS</text>
+<text x="463" y="348" fill="#76808C" >WEB</text><text x="533" y="348" fill="#D6DCE2" >React · Next.js · Vite</text>
+<text x="463" y="370" fill="#76808C" >TOOLS</text><text x="533" y="370" fill="#D6DCE2" >Git · Fedora Linux · VS Code</text>
 <text x="30" y="448" fill="#7FD0EE" >nero@system</text><text x="116" y="448" fill="#76808C" >:~$</text>
 <rect class="blink" x="152" y="437" width="8" height="15" fill="#7FD0EE"/>
 <defs><pattern id="sl" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern></defs>
